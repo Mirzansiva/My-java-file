@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class userinput{
 	public static void main(String args[]){
-	Scanner x = new Scanner (System.in);/
+	Scanner x = new Scanner (System.in);
 	String name = "";
 	System.out.print("Please enter youyr name :");
 	name = x.next();
